@@ -9,4 +9,4 @@ In the project Hazard and Damage Assessment models are integrated with Agent Bas
 The research project is a collaborative endeavour between two research groups from Japan and Israel.
 The Japanese team is from IRIDeS (International Research Institute of Disaster Science), Tohoku University and the Israeli team is from SPARG (Spatial Analysis Research Group), Department of Geography, The Hebrew University of Jerusalem.
 
-Further info on the project can be find in the DIM2SEA HP
+Further info on the project can be find in the DIM2SEA HP ( http://dim2sea.huji.ac.il )
